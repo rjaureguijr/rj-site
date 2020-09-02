@@ -42,8 +42,8 @@ export default function App() {
 function Home() {
   return (
     <div className="container">
-  <h1>Rudy Jauregui</h1>
-  <h2>Home</h2>
+      <h1>Rudy Jauregui</h1>
+      <h2>Home</h2>
   </div>
   );
 }
